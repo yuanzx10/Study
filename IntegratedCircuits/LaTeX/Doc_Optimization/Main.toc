@@ -1,0 +1,30 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Technology and Components}{4}{chapter.1}
+\contentsline {section}{\numberline {1.1}Transistor}{4}{section.1.1}
+\contentsline {section}{\numberline {1.2}Resistor}{4}{section.1.2}
+\contentsline {section}{\numberline {1.3}Capacitor}{4}{section.1.3}
+\contentsline {chapter}{\numberline {2}Design overview of current version}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Front-end}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Analog-to-digital converter}{5}{section.2.2}
+\contentsline {section}{\numberline {2.3}Digital parts}{5}{section.2.3}
+\contentsline {chapter}{\numberline {3}Optimization on mismatch}{6}{chapter.3}
+\contentsline {section}{\numberline {3.1}Mismatch of components}{6}{section.3.1}
+\contentsline {section}{\numberline {3.2}Mismatch of building blocks}{6}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Current mirror}{6}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Operational amplifier}{6}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Optimization of uniformity}{6}{section.3.3}
+\contentsline {chapter}{\numberline {4}Optimization on noise}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}Noise components of the transistor}{7}{section.4.1}
+\contentsline {section}{\numberline {4.2}Noise analysis for the ASIC}{7}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Input stage}{7}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Integration and shaper stage}{7}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Baseline hold}{7}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}Optimization for the Noise}{7}{section.4.3}
+\contentsline {chapter}{\numberline {5}Optimization on noise coupling}{8}{chapter.5}
+\contentsline {section}{\numberline {5.1}Power supply rejection ratio}{8}{section.5.1}
+\contentsline {section}{\numberline {5.2}Substrate noise}{8}{section.5.2}
+\contentsline {part}{\numberline {I}Appendix}{9}{part.1}
+\contentsline {chapter}{\numberline {A}Lists}{10}{appendix.A}
+\contentsline {section}{\numberline {A.1}List of Figures}{10}{section.A.1}
+\contentsline {section}{\numberline {A.2}List of Tables}{10}{section.A.2}
+\contentsline {chapter}{\numberline {B}Bibliography}{11}{appendix.B}
