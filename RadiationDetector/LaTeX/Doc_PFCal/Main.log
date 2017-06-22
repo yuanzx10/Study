@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.5.24)  18 JUN 2017 19:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.5.24)  22 JUN 2017 17:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -677,7 +677,10 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 Package hyperref Info: Option `colorlinks' set `true' on input line 38.
 
 (./Main.aux (./chapters/titlepages-eng.aux) (./chapters/abstracts.aux)
-(./chapters/chapter01_introduction.aux) (./chapters/chapter02_PFCal.aux)
+(./chapters/chapter01_introduction.aux) (./chapters/chapter02_Calorimeter.aux)
+(./chapters/chapter03_Detectors.aux) (./chapters/chapter04_PFA.aux)
+(./chapters/chapter05_Testbeam.aux) (./chapters/chapter06_Simulation.aux)
+(./chapters/chapter07_AHCAL.aux) (./chapters/chapter08_Calibration.aux)
 (./chapters/deposition.aux))
 \openout1 = `Main.aux'.
 
@@ -762,37 +765,91 @@ File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 (./chapters/abstract-ger.tex) (./chapters/abstract-eng.tex)) [2
 
 
-] (./Main.toc)
-\tf@toc=\write4
-\openout4 = `Main.toc'.
-
-
+] (./Main.toc
 [3
 
 
-]
+])
+\tf@toc=\write4
+\openout4 = `Main.toc'.
+
+ [4]
 \openout2 = `chapters/chapter01_introduction.aux'.
 
  (./chapters/chapter01_introduction.tex
 chapter 1.
-) [4
-
-
-]
-\openout2 = `chapters/chapter02_PFCal.aux'.
-
- (./chapters/chapter02_PFCal.tex
-chapter 2.
 ) [5
 
 
+]
+\openout2 = `chapters/chapter02_Calorimeter.aux'.
 
-] [6]
+ (./chapters/chapter02_Calorimeter.tex
+chapter 2.
+) [6
+
+
+
+]
+\openout2 = `chapters/chapter03_Detectors.aux'.
+
+ (./chapters/chapter03_Detectors.tex
+chapter 3.
+) [7
+
+
+
+]
+\openout2 = `chapters/chapter04_PFA.aux'.
+
+ (./chapters/chapter04_PFA.tex
+chapter 4.
+) [8
+
+
+
+]
+\openout2 = `chapters/chapter05_Testbeam.aux'.
+
+ (./chapters/chapter05_Testbeam.tex
+chapter 5.
+) [9
+
+
+
+]
+\openout2 = `chapters/chapter06_Simulation.aux'.
+
+ (./chapters/chapter06_Simulation.tex
+chapter 6.
+) [10
+
+
+
+]
+\openout2 = `chapters/chapter07_AHCAL.aux'.
+
+ (./chapters/chapter07_AHCAL.tex
+chapter 7.
+) [11
+
+
+
+]
+\openout2 = `chapters/chapter08_Calibration.aux'.
+
+ (./chapters/chapter08_Calibration.tex
+chapter 8.
+) [12
+
+
+
+]
 part I.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 50.
-[7
+(scrkbase)              on input line 56.
+[13
 
 
 ]
@@ -805,41 +862,44 @@ chapter A.
 \tf@lot=\write6
 \openout6 = `Main.lot'.
 
- (./Main.bbl [8
+ (./Main.bbl [14
 
 ]
 chapter B.
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 10.
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)) [9
+)) [15
 
 ]
 \openout2 = `chapters/deposition.aux'.
 
 
-(./chapters/deposition.tex) [10
+(./chapters/deposition.tex) [16
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 60.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 60.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
  (./Main.aux (./chapters/titlepages-eng.aux)
 (./chapters/abstracts.aux) (./chapters/chapter01_introduction.aux)
-(./chapters/chapter02_PFCal.aux) (./chapters/deposition.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 60.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 60.
+(./chapters/chapter02_Calorimeter.aux) (./chapters/chapter03_Detectors.aux)
+(./chapters/chapter04_PFA.aux) (./chapters/chapter05_Testbeam.aux)
+(./chapters/chapter06_Simulation.aux) (./chapters/chapter07_AHCAL.aux)
+(./chapters/chapter08_Calibration.aux) (./chapters/deposition.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
 Package rerunfilecheck Info: File `Main.out' has not changed.
-(rerunfilecheck)             Checksum: 7C1727F3920A5610447AF29712C1F091;2335.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 60.
+(rerunfilecheck)             Checksum: AE886055A2823F261A896C3A4251F5D9;3265.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
  ) 
 Here is how much of TeX's memory you used:
- 9282 strings out of 494945
- 143823 string characters out of 6181032
- 325865 words of memory out of 5000000
- 12362 multiletter control sequences out of 15000+600000
+ 9388 strings out of 494945
+ 146333 string characters out of 6181032
+ 328003 words of memory out of 5000000
+ 12403 multiletter control sequences out of 15000+600000
  16613 words of font info for 39 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 49i,7n,80p,8815b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,7n,80p,8815b,484s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/yuanzx/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1200.60
 0pk> </home/yuanzx/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx2488.
 600pk> </home/yuanzx/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx144
@@ -851,10 +911,10 @@ csx2074.600pk> </home/yuanzx/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec
 ec/ecbx1095.600pk> </home/yuanzx/.texlive2016/texmf-var/fonts/pk/ljfour/jknappe
 n/ec/ecrm1440.600pk> </home/yuanzx/.texlive2016/texmf-var/fonts/pk/ljfour/jknap
 pen/ec/ecsx1728.600pk>
-Output written on Main.pdf (10 pages, 121733 bytes).
+Output written on Main.pdf (16 pages, 126131 bytes).
 PDF statistics:
- 615 PDF objects out of 1000 (max. 8388607)
- 254 compressed objects within 3 object streams
- 45 named destinations out of 1000 (max. 500000)
- 257 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 731 PDF objects out of 1000 (max. 8388607)
+ 362 compressed objects within 4 object streams
+ 68 named destinations out of 1000 (max. 500000)
+ 393 words of extra memory for PDF output out of 10000 (max. 10000000)
 
